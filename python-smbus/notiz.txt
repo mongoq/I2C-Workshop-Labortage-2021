@@ -1,0 +1,5 @@
+Da das Paket nicht in den aktuellen Paketquellen verfuegbar ist:
+
+https://packages.ubuntu.com/de/bionic/python-smbus 
+
+Architektur "amd64" wahrscheinlich ...

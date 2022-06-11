@@ -1,0 +1,3 @@
+https://www.vesiluoma.com/exploiting-with-badusb-meterpreter-digispark/
+
+https://hacksland.net/reverse-tcp-shell-with-metasploit/

@@ -1,0 +1,5 @@
+"Easy USB Mouse Jiggler to Prevent Screensaver"
+
+Arduino unter Linux: https://startingelectronics.org/tutorials/arduino/digispark/digispark-linux-setup/
+
+Mouse Jiggler Quelltext: https://ericdraken.com/usb-mouse-jiggler/

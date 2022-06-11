@@ -1,0 +1,3 @@
+Bash und Python Code: http://bozontlabs.blogspot.com/2014/09/beaglebone-black-and-bh1750-light-sensor.html
+
+C Code: https://titanwolf.org/Network/Articles/Article?AID=c06d53e1-6d8f-42f4-b9ea-e7dc8cf9441a#gsc.tab=0

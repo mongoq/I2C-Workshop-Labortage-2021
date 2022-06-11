@@ -1,0 +1,1 @@
+https://mg.guelker.eu/blog/2019/bmp280-in-c-auslesen.html
